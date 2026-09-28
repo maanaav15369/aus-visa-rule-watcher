@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+httpx
+requests
+beautifulsoup4
+lxml
+python-dotenv
+pydantic
+sqlalchemy
+pypdf
+pdfplumber
+pytest
+streamlit
+apscheduler

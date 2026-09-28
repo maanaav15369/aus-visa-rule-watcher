@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+myenv/
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Generated data
+data/raw/*
+data/normalized/*
+data/snapshots/*
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/*
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
